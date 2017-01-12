@@ -56,12 +56,7 @@ body {
 			display: inline-block;
 			vertical-align: top;
 		}
-		.name{
-			color: black;
-		}
-		.designation{
-			color: black;
-		}
+		
 
 		.work-experience, .education {
 			margin-bottom: 30px;
