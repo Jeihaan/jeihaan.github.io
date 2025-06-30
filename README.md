@@ -14,6 +14,7 @@ cd jeihaan.github.io
 
 ## Running the Valuation App
 
+1. Install dependencies:
 1. Create and activate a virtual environment:
    ```bash
    python3 -m venv venv
@@ -23,11 +24,14 @@ cd jeihaan.github.io
    ```bash
    pip install -r valuation_app/requirements.txt
    ```
+2. Start the server:
 3. Start the server. Use the `-m` flag so Python treats the application as a
    package (this avoids import issues):
    ```bash
+   python valuation_app/mainapp.py
    python -m valuation_app.mainapp
    ```
+3. Open your browser at `http://localhost:5000` and upload your FAR file.
 4. Open your browser at `http://localhost:5000` and upload your FAR file.
 
 The application expects the register to include an **Asset acquisition date** column and will add an **Asset Age (years)** column to the exported file.
