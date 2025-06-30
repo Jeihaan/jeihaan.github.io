@@ -44,6 +44,13 @@ containing a list of records with the following keys:
 
 * `industry`
 * `sub_industry`
+* `broader_asset_category`
+* `asset_category`
+* `life`
+
+Sub-industry names are derived from the first row of each table in the ATO
+document. When a table contains no broader category headings, the
+`broader_asset_category` value repeats the sub-industry name.
 * `asset_category`
 * `life`
 
