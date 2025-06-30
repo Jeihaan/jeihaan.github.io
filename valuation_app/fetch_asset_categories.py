@@ -7,7 +7,7 @@ from typing import Dict, List, Optional
 import requests
 from bs4 import BeautifulSoup
 
-URL = "https://www.ato.gov.au/law/view/document?DocID=TXR%2FTR20213%2FNAT%2FATO%2F00003"
+URL = "https://www.ato.gov.au/law/view/document?LocID=%22TXR%2FTR20213%2FNAT%2FATO%2FatTABLE-ELECTRICITY%22&PiT=99991231235958#TABLE-ELECTRICITY"
 
 
 def fetch_asset_categories(url: str = URL) -> List[Dict[str, str]]:
@@ -68,14 +68,14 @@ def fetch_asset_categories(url: str = URL) -> List[Dict[str, str]]:
                         "sub_industry": current_sub_industry or "",
                         "broader_asset_category": current_broader or (current_sub_industry or ""),
                         "asset_category": first_text,
-                        "life": cols[-1],
+                        "life": cols[-3],
                     })
     return records
 
 
 def save_to_json(data: List[Dict[str, str]]) -> None:
     """Save the records to ``ato_asset_categories.json`` in this package."""
-    output_path = os.path.join(os.path.dirname(__file__), "ato_asset_categories.json")
+    output_path = os.path.join(os.path.dirname(__file__), "Electricity_gas_waste_water_asset_categories.json")
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 

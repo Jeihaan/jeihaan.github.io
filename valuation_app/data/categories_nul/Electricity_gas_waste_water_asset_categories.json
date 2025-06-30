@@ -1,0 +1,2284 @@
+[
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Electricity distribution",
+    "asset_category": "Control, monitoring, communications and protection systems",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Electricity distribution",
+    "asset_category": "Customer meters (incorporating load and time switches if fitted)",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Electricity distribution",
+    "asset_category": "Customer service mains or cable, above ground",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Electricity distribution",
+    "asset_category": "Customer service mains or cable, underground",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Distribution lines",
+    "asset_category": "Above ground (incorporating conductors; cross arms, insulators and fittings; poles - concrete, wood, steel or stobie; and transformers - pole or ground pad mounted)",
+    "life": "45"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Distribution lines",
+    "asset_category": "Combination of above ground and underground",
+    "life": "47 \r\n½"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Distribution lines",
+    "asset_category": "Underground (incorporating cables, fittings and ground pad mounted transformers)",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Distribution lines",
+    "asset_category": "Distribution substations/transformers, pole or ground pad mounted",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Distribution lines",
+    "asset_category": "Distribution zone substations (excluding control, monitoring, communications and protection systems)",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Distribution lines",
+    "asset_category": "Nightwatchman's lights",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Distribution lines",
+    "asset_category": "Street lights",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Ash and dust handling and disposal",
+    "asset_category": "Ash dams",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Ash and dust handling and disposal",
+    "asset_category": "Ash slurry systems",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Ash and dust handling and disposal",
+    "asset_category": "Conveyors",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Ash and dust handling and disposal",
+    "asset_category": "Crushers",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Ash and dust handling and disposal",
+    "asset_category": "On-site storage silos, concrete or steel",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Fuel supply and handling",
+    "asset_category": "On-site gaseous fuel supply systems (incorporating downstream delivery pipelines)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Fuel supply and handling",
+    "asset_category": "On-site liquid fuel supply systems (incorporating downstream delivery pipelines)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Solid fuels",
+    "asset_category": "Coal handling assets (including conveyors, slot bunker, transfer towers, and weighers)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Solid fuels",
+    "asset_category": "Day bunkers and silos, concrete or steel (incorporating top side conveyor system)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Solid fuels",
+    "asset_category": "On-site coal storage assets (including stacking and reclaiming assets)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Solid fuels",
+    "asset_category": "On-site storage silos, concrete or steel",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Solid fuels",
+    "asset_category": "Quality control assets (including coal sampling assets and secondary crushers)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Condensing and feed heating assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Control and monitoring system",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Emergency power supply assets (including batteries and uninterruptible power supply (UPS) assets)",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Gas turbine generators",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Generator transformers and unit transformers in sub-tropical areas",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Generator transformers and unit transformers in tropical areas",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Heat recovery steam generators",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Miscellaneous assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "On-site switchyards with conventional outdoor switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "On-site switchyards with gas insulated switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Reciprocating engines, diesel fired",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Reciprocating engines, gas spark ignition",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Station and auxiliary electrical systems within the power station",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Co-generation",
+    "asset_category": "Steam turbine generators",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Condensing and feed heating assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Control and monitoring systems",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Emergency power supply assets (including batteries and uninterruptible power supply (UPS) assets)",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Gas turbine generators",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Generator transformers and unit transformers in sub-tropical areas",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Generator transformers and unit transformers in tropical areas",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Heat recovery steam generators",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Miscellaneous assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "On-site switchyards with conventional outdoor switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "On-site switchyards with gas insulated switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Station and auxiliary electrical systems within the power station",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Combined cycle",
+    "asset_category": "Steam turbine generators",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "Control and monitoring systems",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "Diesel reciprocating engines",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "Emergency power supply assets (including batteries and uninterruptible power supply (UPS) assets)",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "Gas spark ignition reciprocating engines",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "Generator transformers and unit transformers in sub-tropical areas",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "Generator transformers and unit transformers in tropical areas",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "Miscellaneous assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "On-site switchyards with conventional outdoor switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "On-site switchyards with gas insulated switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Diesel or gas engine",
+    "asset_category": "Station and auxiliary electrical systems within the power station",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Gas turbine",
+    "asset_category": "Control and monitoring systems",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Gas turbine",
+    "asset_category": "Emergency power supply assets (including batteries and uninterruptible power supply (UPS) assets)",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Gas turbine",
+    "asset_category": "Gas turbine generators",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Gas turbine",
+    "asset_category": "Generator transformers and unit transformers in sub-tropical areas",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Gas turbine",
+    "asset_category": "Generator transformers and unit transformers in tropical areas",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Gas turbine",
+    "asset_category": "Miscellaneous assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Gas turbine",
+    "asset_category": "On-site switchyards with conventional outdoor switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Gas turbine",
+    "asset_category": "On-site switchyards with gas insulated switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Gas turbine",
+    "asset_category": "Station and auxiliary electrical systems within the power station",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Hydro-electric",
+    "asset_category": "Control and monitoring system",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Hydro-electric",
+    "asset_category": "Emergency power supply assets (including batteries and uninterruptible power supply (UPS) assets)",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Hydro-electric",
+    "asset_category": "Generator transformers and unit transformers in sub-tropical area",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Hydro-electric",
+    "asset_category": "Generator transformers and unit transformers in tropical areas",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Hydro-electric",
+    "asset_category": "Hydro turbines and generators",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Hydro-electric",
+    "asset_category": "Miscellaneous assets",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Hydro-electric",
+    "asset_category": "On-site switchyards with conventional outdoor switchgear",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Hydro-electric",
+    "asset_category": "On-site switchyards with gas insulated switchgear",
+    "life": "35"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Hydro-electric",
+    "asset_category": "Station and auxiliary electrical systems within the power station",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Solar",
+    "asset_category": "Photovoltaic electricity generating system assets (incorporating photovoltaic panels, mounting frames and inverters)",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Condensing and feed heating assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Control and monitoring systems",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Emergency power supply assets (including batteries and uninterruptible power supply (UPS) assets)",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Generator transformers and unit transformers in sub-tropical areas",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Generator transformers and unit transformers in tropical areas",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Miscellaneous assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "On-site switchyards with conventional outdoor switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "On-site switchyards with gas insulated switchgear",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Primary dust collection systems (incorporating electrostatic precipitators or baghouse filters)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Solid fuel preparation assets (including fuel feeders and milling assets)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Station and auxiliary electrical systems within the power station",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Steam generators",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Thermal",
+    "asset_category": "Steam turbine generators",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Wind",
+    "asset_category": "Generator transformers and unit transformers in sub-tropical areas",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Wind",
+    "asset_category": "Generator transformers and unit transformers in tropical areas",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Wind",
+    "asset_category": "Wind turbines",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Chimney stacks",
+    "asset_category": "Concrete surrounds",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Chimney stacks",
+    "asset_category": "Steel flues",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Chimney stacks",
+    "asset_category": "Cooling towers (concrete or timber)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Chimney stacks",
+    "asset_category": "Cooling water systems (excluding cooling towers and condensing assets)",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Chimney stacks",
+    "asset_category": "Power station buildings, to the extent that they form an integral part of plant",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Chimney stacks",
+    "asset_category": "Workshop machinery and tools",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Electricity transmission",
+    "asset_category": "Control, monitoring, communications and protection systems",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Electricity transmission",
+    "asset_category": "Power transformers",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Electricity transmission",
+    "asset_category": "Transmission lines (incorporating conductors, insulators and towers)",
+    "life": "47 \r\n½"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Electricity supply(26110 to 26400)",
+    "broader_asset_category": "Electricity transmission",
+    "asset_category": "Transmission substations (excluding power transformers and control, monitoring, communications and protection systems)",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas distribution[29]",
+    "asset_category": "Control systems (excluding computers)",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas distribution[29]",
+    "asset_category": "Gas meters",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas distribution[29]",
+    "asset_category": "Low pressure (LP) gas storage holders",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas distribution[29]",
+    "asset_category": "Pigging devices",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Pipelines (including high, medium or low pressure trunk, primary or secondary mains or services)",
+    "asset_category": "Generally",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Pipelines (including high, medium or low pressure trunk, primary or secondary mains or services)",
+    "asset_category": "Polyvinylchloride (PVC) pipelines",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Pipelines (including high, medium or low pressure trunk, primary or secondary mains or services)",
+    "asset_category": "Regulators (including gate stations, subgate stations, block valve stations, pressure regulating stations and district regulating stations)",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas transmission[30]",
+    "asset_category": "Compressor gas turbine (GT) drivers",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas transmission[30]",
+    "asset_category": "Compressor station assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas transmission[30]",
+    "asset_category": "Control systems (excluding computers)",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas transmission[30]",
+    "asset_category": "Gas meters",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas transmission[30]",
+    "asset_category": "Gas pipeline LNG station assets",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas transmission[30]",
+    "asset_category": "Pigging devices",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas transmission[30]",
+    "asset_category": "Pipelines - transmission, spur or lateral",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas transmission[30]",
+    "asset_category": "Regulators (including gate stations, subgate stations, block valve stations, pressure regulating stations and district regulating stations)",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Gas supply(27000)",
+    "broader_asset_category": "Gas transmission[30]",
+    "asset_category": "Underground gas storage asset",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used by irrigation water providers",
+    "asset_category": "Channel regulators",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used by irrigation water providers",
+    "asset_category": "Cranes (including gantries)",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used by irrigation water providers",
+    "asset_category": "Dams and weirs ((incorporating gates and actuators) consisting of a barrier to obstruct the flow of water constructed from any or all of the following: concrete, earth and rockfill)",
+    "life": "100"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used by irrigation water providers",
+    "asset_category": "Drain inlet",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used by irrigation water providers",
+    "asset_category": "Drainage channels (measured from the point of intersection with another drainage channel to the following intersection)",
+    "life": "100"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used by irrigation water providers",
+    "asset_category": "Escapes",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used by irrigation water providers",
+    "asset_category": "Flow meters",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Irrigation channels (incorporating siphons and subways) measured from offtake or regulator to regulator",
+    "asset_category": "Concrete",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Irrigation channels (incorporating siphons and subways) measured from offtake or regulator to regulator",
+    "asset_category": "Earth",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Irrigation channels (incorporating siphons and subways) measured from offtake or regulator to regulator",
+    "asset_category": "Measurement flumes",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Metered outlets",
+    "asset_category": "Electronic",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Metered outlets",
+    "asset_category": "Mechanical",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Metered outlets",
+    "asset_category": "Piped",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Metered outlets",
+    "asset_category": "Offtakes",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Metered outlets",
+    "asset_category": "Pipes:  measured from valve to valve, that are of the same age and same material (not being in the nature of a repair)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Metered outlets",
+    "asset_category": "Pump inlets",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Metered outlets",
+    "asset_category": "Pump sets (incorporating switchboards, starters, motors and pumps)",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Metered outlets",
+    "asset_category": "Reservoirs and tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Metered outlets",
+    "asset_category": "Valves",
+    "life": "40"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used in water supply",
+    "asset_category": "Aerators and blowers",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used in water supply",
+    "asset_category": "Cathodic protection systems",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used in water supply",
+    "asset_category": "Chemical dosing pumps",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Assets used in water supply",
+    "asset_category": "Pump sets (incorporating switch boards, starters, motors and pumps)",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Raw water storage and supply assets",
+    "asset_category": "Bores",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Raw water storage and supply assets",
+    "asset_category": "Dam or weir intake structures",
+    "life": "100"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Raw water storage and supply assets",
+    "asset_category": "Dams and weirs",
+    "life": "100"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Raw water storage and supply assets",
+    "asset_category": "Reservoirs, elevated tanks and standpipes:  whether made from steel or concrete",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Service connections",
+    "asset_category": "Water meters",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Valves",
+    "asset_category": "Generally",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Valves",
+    "asset_category": "Pressure reducing valves",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Valves",
+    "asset_category": "Water mains:  being lengths of trunk, distribution and reticulation mains within a section, measured from valve to valve that are of the same age and same material (not being in the nature of a repair)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Water supply control systems assets",
+    "asset_category": "Air scour flow meters, level sensors, transmitters and meters",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Water supply control systems assets",
+    "asset_category": "Chlorine analysers, mini labs, pH meters, turbidity analysers and meters",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Water supply control systems assets",
+    "asset_category": "Flow meters",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Water supply control systems assets",
+    "asset_category": "Pressure sensors, transmitters and meters",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Water supply control systems assets",
+    "asset_category": "Telemetry (including modems and remote transfer units)",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Water supply control systems assets",
+    "asset_category": "Variable speed drives (VSDs)",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Water supply control systems assets",
+    "asset_category": "Water supply pumping station detention tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Water treatment assets",
+    "asset_category": "Balance tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Aerators and blowers",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Backwash pumps",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Batching tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Clear water tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Drying beds",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Filtration tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Lime pump sets (incorporating switch boards, starters, motors and pumps)",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Lime silos",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Reactors",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Sludge thickeners",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Chemical blowers",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Chemical dosing systems",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Chemical feeders and hoppers",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Chemical mixers and blenders",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Chemical storage tanks",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Clarifiers (incorporating scrapers)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Clear water tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Dissolved air flotation systems",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Filtration tanks (incorporating scrapers)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Flocculation tanks (incorporating scrapers)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Inline mixers",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Penstocks",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Raw water inlet screening systems",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Sludge treatment lagoons",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Water supply(28110)",
+    "broader_asset_category": "Bore water treatment assets",
+    "asset_category": "Wash water holding tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewerage and drainage services(28120)",
+    "asset_category": "Chemical dosing pumps",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Dams",
+    "asset_category": "Lined earth dams",
+    "life": "100"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Dams",
+    "asset_category": "Dam covers",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Effluent outfalls",
+    "asset_category": "Shoreline ocean",
+    "life": "100"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Effluent outfalls",
+    "asset_category": "Extended ocean",
+    "life": "100"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Effluent outfalls",
+    "asset_category": "River or estuary",
+    "life": "100"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Effluent outfalls",
+    "asset_category": "Methane gas and cogeneration assets - see Table A Electricity supply (26110 to 26400) and Gas supply (27000)",
+    "life": ""
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Effluent outfalls",
+    "asset_category": "Pump sets (incorporating switch boards, starters, motors and pumps)",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage pump station assets",
+    "asset_category": "Detention tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage pump station assets",
+    "asset_category": "Overflow screens",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage service connection assets",
+    "asset_category": "Low pressure pumps",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage service connection assets",
+    "asset_category": "Vacuum pumps",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage treatment assets",
+    "asset_category": "Air filtration systems",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage treatment assets",
+    "asset_category": "Air scrubbers",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage treatment assets",
+    "asset_category": "Chemical blowers",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage treatment assets",
+    "asset_category": "Chemical feeders and hoppers",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage treatment assets",
+    "asset_category": "Chemical mixers and blenders",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage treatment assets",
+    "asset_category": "Chemical storage tanks",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage treatment assets",
+    "asset_category": "Grit removal assets",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage treatment assets",
+    "asset_category": "Penstocks",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewage treatment assets",
+    "asset_category": "Screenings removal assets",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge processing assets",
+    "asset_category": "Anaerobic digesters",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge processing assets",
+    "asset_category": "Anaerobic digester gas handling and blowing systems",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge processing assets",
+    "asset_category": "Anaerobic digester heating systems",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge processing assets",
+    "asset_category": "Bio-filters",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge processing assets",
+    "asset_category": "Dissolved air flotation systems",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge processing assets",
+    "asset_category": "Lime disinfection dosing units",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge dewatering assets",
+    "asset_category": "Belt presses",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge dewatering assets",
+    "asset_category": "Centrifuges",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge dewatering assets",
+    "asset_category": "Screw conveyors",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge dewatering assets",
+    "asset_category": "Screw presses",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge dewatering assets",
+    "asset_category": "Sludge driers",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge dewatering assets",
+    "asset_category": "Sludge heating units",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sludge dewatering assets",
+    "asset_category": "Sludge thickening tanks (incorporating scrapers)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Primary treatment assets",
+    "asset_category": "Primary clarifiers (incorporating scrapers)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Primary treatment assets",
+    "asset_category": "Primary sedimentation lagoons",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Primary treatment assets",
+    "asset_category": "Primary sedimentation tanks (incorporating scrapers and weirs)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Primary treatment assets",
+    "asset_category": "Scum collection and transfer systems",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Biological nutrient removal (BNR) assets",
+    "asset_category": "Aerators and blowers",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Biological nutrient removal (BNR) assets",
+    "asset_category": "BNR tanks (incorporating mixed liquor stream, anoxic, anaerobic and swing zones and diffusers)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Biological nutrient removal (BNR) assets",
+    "asset_category": "Mixers",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Biological nutrient removal (BNR) assets",
+    "asset_category": "Secondary clarifiers (incorporating scrapers)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Biological nutrient removal (BNR) assets",
+    "asset_category": "Secondary treatment lagoons",
+    "life": "50"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Biological nutrient removal (BNR) assets",
+    "asset_category": "Secondary treatment tanks (incorporating scrapers and weirs)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Biological nutrient removal (BNR) assets",
+    "asset_category": "Sequenced batch reactors",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Biological nutrient removal (BNR) assets",
+    "asset_category": "Sludge aerators and blowers",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Tertiary treatment assets",
+    "asset_category": "Backwash air blowers",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Tertiary treatment assets",
+    "asset_category": "Chlorine contact tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Tertiary treatment assets",
+    "asset_category": "Filtration tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Reverse osmosis assets",
+    "asset_category": "Fine screening systems",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Reverse osmosis assets",
+    "asset_category": "Micro filtration units",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Reverse osmosis assets",
+    "asset_category": "Reverse osmosis membrane filtration units",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Reverse osmosis assets",
+    "asset_category": "UV disinfectors",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Reverse osmosis assets",
+    "asset_category": "Water storage tanks",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewerage control systems assets",
+    "asset_category": "Chlorine residual analysers and pH meters",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewerage control systems assets",
+    "asset_category": "Dissolved oxygen probes, level sensors, transmitters and meters",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewerage control systems assets",
+    "asset_category": "Flow meters",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewerage control systems assets",
+    "asset_category": "Telemetry (including modems and remote transfer units)",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewerage control systems assets",
+    "asset_category": "Variable speed drives (VSDs)",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Sewerage control systems assets",
+    "asset_category": "Sewer mains:  Being lengths of collection sewers measured from manhole to manhole (including branch, main, pressure, reticulation, sub-main and trunk sewers) (not being in the nature of a repair)",
+    "life": "80"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Valves",
+    "asset_category": "Generally",
+    "life": "25"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Sewerage and drainage services(28120)",
+    "broader_asset_category": "Valves",
+    "asset_category": "Pressure reducing valves",
+    "life": "30"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Solid waste collection services(29110)",
+    "asset_category": "Air compressors and receivers",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Solid waste collection services(29110)",
+    "asset_category": "Balers",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Domestic mobile bins (plastic)",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Industrial mobile rubbish bins (metal)",
+    "life": "8"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Industrial mobile rubbish bins (plastic)",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Metal skips for hire",
+    "life": "8"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Roll-on roll-off containers",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Stationary and portable compactor bins",
+    "life": "8"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Bin delivery vehicle cranes/bin and skip lifters",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Compactors and collection bodies on trucks (including lifting arms)",
+    "life": "8"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Fans",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Forklifts",
+    "life": "11"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Garbage compactor trucks (excluding the compactor)[31]",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Hook lifts on truck body",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Truck hoists",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Washing assets (including pressure washers)",
+    "life": "4"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Solid waste collection services(29110)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Waste water treatment systems",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Transfer stations and landfill operation assets",
+    "asset_category": "Air compressors and receivers",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Transfer stations and landfill operation assets",
+    "asset_category": "Balers",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Bins generally (including metal bins)",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Compactor bins",
+    "life": "6"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Mobile bins (including rubbish bins)",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Bulk fuel above ground tanks",
+    "life": "20"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Bulldozers and drotts (including landfill compaction assets)",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "CCTV and security systems",
+    "life": "4"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Concrete crushing assets",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Dust and odour control assets",
+    "life": "12"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Excavators and front end loaders",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Fans",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Forklifts used in waste handling",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Forklifts not used in waste handling",
+    "life": "11"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Extraction assets (including wells, laterals and headers, and condensate systems)",
+    "life": "8"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Flare skid assets generally (including blowers, monitoring systems and flame arresters, but excluding flare stacks)",
+    "life": "7 \r\n½"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Flare stacks - continuous use",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Flare stacks - standby stacks",
+    "life": "7 \r\n½"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Monitoring systems (excluding wells)",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Off-site monitoring wells",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Green waste mulchers and shredders",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Hoppers",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Push pits",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Sweepers - road sweepers",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Transfer trailers",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Water treatment systems",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste treatment and disposal services(29210)",
+    "broader_asset_category": "Gas capture assets",
+    "asset_category": "Weighbridges",
+    "life": "15"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Materials recovery facility (MRF) assets",
+    "asset_category": "Air compressors and receivers",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Materials recovery facility (MRF) assets",
+    "asset_category": "Balers",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Materials recovery facility (MRF) assets",
+    "asset_category": "Ballistic separators",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Bins generally (including metal bins)",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Compactor bins",
+    "life": "6"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Mobile bins (including rubbish bins)",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Bunkers",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Bins",
+    "asset_category": "CCTV and security systems",
+    "life": "4"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Chippers and shredders",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Bins",
+    "asset_category": "Control systems",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Bounce conveyors and feeders",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Conveyors generally ((incorporating belt, drive, motors and supporting structure) including walking floor conveyors)",
+    "life": "9"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Hand sort conveyors",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Door controls and motor drive systems for automatic opening doors (incorporating controls, motors and sensors, but excluding doors)",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Ducted air transfer system assets",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Dust collectors",
+    "life": "12"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Eddy current separators",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Excavators and front end loaders",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Fans",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Feed hoppers (incorporating steel drag chain, conveyor belt, metering feed roller, motor and gearbox)",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Ferrous and magnetic separators",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Food separation and screening assets",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Forklifts",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Glass breakers and crushers",
+    "life": "6"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Hoppers",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Leachate pumps and filters",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Lifting assets (including pallet jacks)",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Optical sorters",
+    "life": "5"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Screen separators",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Conveyors and conveyor systems",
+    "asset_category": "Sweepers and scrubbers",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Trommels (incorporating wheels, motors and gearboxes)",
+    "asset_category": "Fixed",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Trommels (incorporating wheels, motors and gearboxes)",
+    "asset_category": "Portable",
+    "life": "7"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Trommels (incorporating wheels, motors and gearboxes)",
+    "asset_category": "Vacuum extraction and cleaning assets",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Trommels (incorporating wheels, motors and gearboxes)",
+    "asset_category": "Vibrating screen separators",
+    "life": "10"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Trommels (incorporating wheels, motors and gearboxes)",
+    "asset_category": "Waste compactors",
+    "life": "9"
+  },
+  {
+    "industry": "Electricity, gas, water and waste services - (26110 to 29220)",
+    "sub_industry": "Waste remediation and materials recovery services(29220)",
+    "broader_asset_category": "Trommels (incorporating wheels, motors and gearboxes)",
+    "asset_category": "Weighbridges",
+    "life": "15"
+  }
+]

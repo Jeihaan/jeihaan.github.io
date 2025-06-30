@@ -1,0 +1,2802 @@
+[
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Cone and gyratory",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Feeder breaker",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Generally",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Impact and rotary",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Jaw",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Roller (including roll sizers)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Grinding mills",
+    "asset_category": "Ball and rod",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Grinding mills",
+    "asset_category": "Generally",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Grinding mills",
+    "asset_category": "Hammer",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Grinding mills",
+    "asset_category": "SAG (autogenous)",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Adsorption process assets",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Agglomeration (pelletizing) assets",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Calcination process assets (including kilns)",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Casting process assets for casting billets or ingots",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Converting process assets (including rotatable cylindrical furnaces)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Cooling process assets (including cooling towers)",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Counter current decantation (CCD) process assets",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Drying process assets (including rotary dryers, spray dryers and indirect heat exchanger dryers)",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Electrolysis process assets (including electrowinning process and electro refining process assets including tanks)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Filtration process assets",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Gas cleaning process assets (including electrostatic precipitators and baghouses)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Gas recovery process assets (including stripping and absorption assets)",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Hydrometallurgy and Pyrometallurgy assets",
+    "asset_category": "Ion exchange process assets",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Atmospheric",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Generally",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Pressure",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Neutralisation process assets",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Pots and ladles used for molten materials",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Precipitation process assets (including tanks and agitators)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Pressure vessels",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Roasting process assets (including kilns and furnaces)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Sintering process assets (including continuous sintering machines)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Smelting process assets (including furnaces)",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Solution treatment and metal recovery assets",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Solvent extraction process assets (including mixer-settler units)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Leaching process assets",
+    "asset_category": "Tailings stills",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Infrastructure support assets",
+    "asset_category": "Compressors",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Generally",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Instruments",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Towers or other supporting structures",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Electrical infrastructure assets (including power reticulation, substations, switchgear and transformers)",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Mineral treatment structure",
+    "life": "40"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Pipes and pipelines (including valves and fittings)",
+    "asset_category": "Generally",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Pipes and pipelines (including valves and fittings)",
+    "asset_category": "Slurry pipework within processing facility (including slurry pipe to thickener)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Generally",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Positive displacement pumps",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Materials handling assets",
+    "asset_category": "Belt magnets, samplers, metal detectors and analysers",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Materials handling assets",
+    "asset_category": "Bins, chutes, hoppers, bunkers and silos",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Materials handling assets",
+    "asset_category": "Bucket elevators",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Materials handling assets",
+    "asset_category": "Conveyors",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Generally (including apron and belt)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Vibrating",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Fuel storage tanks",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Gas storage tanks and spheres",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Grizzly bars and scalpers",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Overhead cranes/gantries",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Stacks (chimney)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Stockpile assets",
+    "asset_category": "Reclaim tunnel flow valves and activators",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Stockpile assets",
+    "asset_category": "Stackers, reclaimers and stacker/reclaimers",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Stockpile assets",
+    "asset_category": "Train loaders",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Stockpile assets",
+    "asset_category": "Trippers/stackers and stacking conveyor systems",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Stockpile assets",
+    "asset_category": "Tunnel vent and exhaust fans",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Stockpile assets",
+    "asset_category": "Water recycling facilities",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Stockpile assets",
+    "asset_category": "Water storage tanks",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Stockpile assets",
+    "asset_category": "Weighing machines (including weighers for feeders and conveyors)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Classification, gravity separation and dewatering assets",
+    "asset_category": "Centrifuges",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Dense medium and heavy medium",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Generally (including classifying, desliming, and hydrocyclones)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Generally",
+    "life": "18"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Hydraulic classifiers and teetered bed separators",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Jigs",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Pneumatic tables and air separators",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Settling cones",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Shaking tables",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Sluices and cone concentrators",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Spirals",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Electrostatic separation assets",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Filtration assets (including pressure filtration and vacuum filtration equipment)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Flotation assets (including tanks, launders, agitators, air supply and reagent dosing equipment)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Magnetic separation assets (including cross belt, drum and disc types)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Screening assets",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Thickening assets",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Port assets - see Table A Water transport and support services (48100 to 48200 and 52110 to 52190)",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Railway infrastructure assets and rolling-stock - see Table A Rail freight and passenger transport services (47100 to 47200)",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Bucket wheel excavators",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Compressors",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Cranes",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Dozers",
+    "life": "9"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Draglines",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Drill rigs (Production)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Electric rope shovels",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Generators",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Graders",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Hydraulic excavators (including hydraulic front shovels)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Lighting systems",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Off highway trucks (including articulated, rigid dump, service, fuel and water trucks)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Rollers",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Scrapers",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Skid steer loader",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Tool carriers",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Wheel loaders",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Surface mobile mining machines",
+    "asset_category": "Tailings dams",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Underground mobile mining machines",
+    "asset_category": "Compressors",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Underground mobile mining machines",
+    "asset_category": "Continuous haulage systems",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Underground mobile mining machines",
+    "asset_category": "Continuous miners",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Drill rigs",
+    "asset_category": "Diamond",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Drill rigs",
+    "asset_category": "Production",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Drill rigs",
+    "asset_category": "Feeder breakers",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Drill rigs",
+    "asset_category": "Graders",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Drill rigs",
+    "asset_category": "Jumbos",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Drill rigs",
+    "asset_category": "Load-haul-dump machines",
+    "life": "6"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Armoured face conveyors",
+    "life": "6"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Beam stage loaders",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Hydraulic pump modules",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Hydraulic roof supports",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Impact crushers",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Mobile conveyors tail end",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Roof support relocation vehicles",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Shearers",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Shearer carriers",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Maintenance vehicles",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Personnel transporters",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Raise borers and down reamers",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Roof bolters",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Scissor lifts",
+    "life": "6"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Shuttle cars",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Skid steer loaders",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Underground haulage trucks",
+    "life": "6"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Wheel loaders",
+    "life": "6"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "MINING(06000 to 10900)",
+    "broader_asset_category": "Long-wall equipment",
+    "asset_category": "Workshop plant",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Coal preparation assets",
+    "asset_category": "Centrifuges",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Coal preparation assets",
+    "asset_category": "Crushing assets (including feeder breakers, impact, roller and rotary crushers)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Dense medium, heavy medium",
+    "life": "6"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Generally (including classifying, desliming and hydrocyclones)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Filtration assets (including belt, drum and vacuum filters)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Flotation assets (including agitation air supply systems, launders, reagent dosing systems and tanks)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Grizzly bars and scalpers",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Jigs and heavy medium baths",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Magnetic separators",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Spirals",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Cyclones",
+    "asset_category": "Thickening assets",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Infrastructure support assets",
+    "asset_category": "Analysers, belt magnets, grinding mills, metal detectors and samplers",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Infrastructure support assets",
+    "asset_category": "Coal preparation facility framework/structure",
+    "life": "40"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Infrastructure support assets",
+    "asset_category": "Compressors",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Generally",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Instruments",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Towers or other supporting structures",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Electrical infrastructure assets (including reticulation assets, substations, switch gear and transformers)",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Fuel storage tanks",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Gas storage tanks",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Control systems and communication systems assets",
+    "asset_category": "Overhead cranes/gantries",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pipes and pipelines (including valves and fittings)",
+    "asset_category": "Generally",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pipes and pipelines (including valves and fittings)",
+    "asset_category": "Slurry pipework within processing facility (including slurry pipe to thickener)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Generally (including centrifugal pumps)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Positive displacement pumps",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Train loaders",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Tunnel vent or exhaust fans",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Valves and other non pipe fittings",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Water recycling facility",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Water storage dams (including fire services dams and water storage dams generally)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Water storage tanks",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Materials handling assets",
+    "asset_category": "Bins, chutes, hoppers, silos and storage bunkers",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Materials handling assets",
+    "asset_category": "Bucket elevators",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Materials handling assets",
+    "asset_category": "Conveyors",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Generally (including apron and belt feeders)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Vibrating feeders",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Stockpile spraying system",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Stockpile stackers, reclaimers and stacker reclaimers",
+    "asset_category": "Generally (including all machinery)",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Stockpile stackers, reclaimers and stacker reclaimers",
+    "asset_category": "Reclaim tunnels",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Coal mining(06000)",
+    "broader_asset_category": "Stockpile stackers, reclaimers and stacker reclaimers",
+    "asset_category": "Trippers/stackers",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Assets used to manufacture condensate, crude oil, domestic gas, liquid natural gas (LNG) or liquid petroleum gas (LPG) but not if the manufacture occurs in an oil refinery[24]",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Control systems",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Domestic gas processing assets (including centrifugal compressor, column, gas turbine, heat exchanger, piping and turbo expander)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Electricity generation assets - see Table A Electricity supply (26110 to 26400)",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Flare towers for gas flares",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Fractionation train assets (including air coolers, columns, compressors, heat exchangers, piping and pumps)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Hot water system assets",
+    "life": "17 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Instruments",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "LNG holding facility assets (including boil off gas compressors, cryogenic storage tanks, loading arms, pumps and tanks)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "LNG train assets (including centrifugal compressors, columns, cryogenic heat exchangers, gas turbine drivers and other heat exchangers)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Stabiliser process assets (including columns, heat exchangers, pumps and reciprocating compressors)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Oil and gas extraction(07000)",
+    "asset_category": "Storage and loading assets (including cryogenic storage tanks, jetties, loading arms, LPG chillers and pumps)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Trunkline onshore terminal (TOT) assets",
+    "asset_category": "Flash tanks",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Trunkline onshore terminal (TOT) assets",
+    "asset_category": "Slugcatcher and associated piping",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Trunkline onshore terminal (TOT) assets",
+    "asset_category": "Valves including control valves",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Central production facility assets",
+    "asset_category": "Boilers",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Central production facility assets",
+    "asset_category": "Cabling for power and control systems",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Central production facility assets",
+    "asset_category": "Diesel systems",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Central production facility assets",
+    "asset_category": "Drains systems",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Central production facility assets",
+    "asset_category": "Drill rigs",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Flare system assets",
+    "asset_category": "Carbon steel piping",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Flare system assets",
+    "asset_category": "Flare tips",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Flare system assets",
+    "asset_category": "Stainless steel piping",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Flare system assets",
+    "asset_category": "Fuel gas systems",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Gas compressors used offshore",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Gas turbine drivers used offshore",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Generally (including piping, skid, vessels and assets used onshore)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Power turbines used offshore",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Heat exchangers",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Major carbon steel vessels",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Major stainless steel (or lined) vessels",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Offshore platforms",
+    "asset_category": "Generally (including accommodation modules, flare structures, helidecks, jackets, primary steel work and topsides secondary steel work)[26]",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Offshore platforms",
+    "asset_category": "Topsides tertiary steelwork (including handrails, ladders and stairs)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Offshore platforms",
+    "asset_category": "Piping",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Circulation pump",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Generally",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Seawater lift pumps",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Shutdown and fire/gas systems",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Chemical treatment assets",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Piping and vessels",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Utility air compressors",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Coal seam gas extraction assets",
+    "asset_category": "Infield gathering systems used for gas and associated water (including polyethylene (PE) pipes and pumps)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Water assets",
+    "asset_category": "Storage ponds and tanks for water and brine",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Water assets",
+    "asset_category": "Treated water distribution assets",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Water assets",
+    "asset_category": "Treated water irrigation assets - see Table A Agriculture, Forestry and Fishing (01110 to 05290), water assets",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Water assets",
+    "asset_category": "Water treatment facility assets (including desalination plants, reverse osmosis, brine concentration and crystallisation assets)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Downhole equipment (including pumps, but excluding well casing)",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Wellpad surface assets (including christmas trees, separators and telemetry equipment)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Wells",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Control systems",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Electricity generation assets - see Table A Electricity supply (26110 to 26400)",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Floating production storage and offloading (FPSO) vessels (incorporating mooring systems)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Floating storage and offloading (FSO) vessels (incorporating mooring systems)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Infield pipeline",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Instruments (including level, pressure and temperature indicators)",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Offshore bulk loading transfer systems",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Subsea production assets (including control umbilical, flowline and manifold)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Trunklines",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Valves",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Wells and downhole equipment",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Well assets",
+    "asset_category": "Wellheads and christmas trees",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Central production facility assets (excluding FPSOs)",
+    "asset_category": "Boilers",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Central production facility assets (excluding FPSOs)",
+    "asset_category": "Circulation pumps",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Central production facility assets (excluding FPSOs)",
+    "asset_category": "Drill rigs",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Central production facility assets (excluding FPSOs)",
+    "asset_category": "Flare tips",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Gas compressors used offshore",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Gas turbine drivers used offshore",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Generally (including piping, skids, vessels and assets used onshore)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Power turbines used offshore",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Generally (including offshore platforms)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Gas compression and reinjection assets",
+    "asset_category": "Major carbon steel vessels",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Circulation pumps",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Other",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Chemical treatment assets",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Piping and vessels",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Control systems",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Electricity generation assets - see Table A Electricity supply (26110 to 26400)",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Floating production storage and offloading (FPSO) vessels (incorporating mooring systems)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Floating storage and offloading (FSO) vessels (incorporating mooring systems)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Infield pipelines",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Instruments (including level, pressure and temperature indicators)",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Offshore bulk loading transfer systems",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Subsea production assets (including control umbilical, flowline and manifold)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Trunklines",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Valves",
+    "life": "12 \r\n½"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Wells and downhole equipment",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Wellheads and christmas trees",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Oil and gas extraction(07000)",
+    "broader_asset_category": "Tempered water system assets",
+    "asset_category": "Port assets - see Table A Water transport and support services (48100 to 48200 and 52110 to 52190)",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Iron ore mining(08010)",
+    "broader_asset_category": "Infrastructure support assets",
+    "asset_category": "Blowers, high pressure",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Iron ore mining(08010)",
+    "broader_asset_category": "Infrastructure support assets",
+    "asset_category": "Dust suppression/control equipment",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Iron ore mining(08010)",
+    "broader_asset_category": "Feeders",
+    "asset_category": "Vibrating",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Iron ore mining(08010)",
+    "broader_asset_category": "Mineral dressing assets",
+    "asset_category": "Cyclones, dense/heavy medium (unlined nihard)",
+    "life": "1"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Iron ore mining(08010)",
+    "broader_asset_category": "Mineral dressing assets",
+    "asset_category": "Dense medium separation assets (including baths and drums)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Iron ore mining(08010)",
+    "broader_asset_category": "Magnetic separation assets",
+    "asset_category": "LIMS (low intensity magnetic separators)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Iron ore mining(08010)",
+    "broader_asset_category": "Magnetic separation assets",
+    "asset_category": "WHIMS (wet high intensity magnetic separators)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Iron ore mining(08010)",
+    "broader_asset_category": "Magnetic separation assets",
+    "asset_category": "Screening assets",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Gold ore processing assets",
+    "asset_category": "Adsorption process assets",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Gold ore processing assets",
+    "asset_category": "Carbon regeneration kilns",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Gold ore processing assets",
+    "asset_category": "Concentrators (including inline pressure jigs and mechanical concentrators)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Crushing assets",
+    "asset_category": "Cone/gyratory crushers",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Crushing assets",
+    "asset_category": "Hydraulic rock breakers",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Crushing assets",
+    "asset_category": "Jaw crushers",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Crushing assets",
+    "asset_category": "Electrowinning/electrorefining assets",
+    "life": "17"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Crushing assets",
+    "asset_category": "Elution columns",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Crushing assets",
+    "asset_category": "Elution storage tanks",
+    "life": "17"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Laboratory assets",
+    "asset_category": "Atmospheric adsorption spectrometers",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Laboratory assets",
+    "asset_category": "Generally (including drying ovens, pulverisers, crushers, gas fired ovens, fume cupboards)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Laboratory assets",
+    "asset_category": "Leaching process assets (including carbon in pulp and carbon in leach processes)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Laboratory assets",
+    "asset_category": "Shaking tables",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Laboratory assets",
+    "asset_category": "Smelting furnaces",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Gold ore mining(08040)",
+    "broader_asset_category": "Laboratory assets",
+    "asset_category": "Thickening assets",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Mineral sand mining(08050)",
+    "asset_category": "Aeration assets (including aerators, attritioners, blowers and turbine impeller agitated vessels)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Mineral sand mining(08050)",
+    "asset_category": "Classification and gravity separation assets (including centrifuges, cones, cyclones, screw classifiers, spirals and tables)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Mineral sand mining(08050)",
+    "asset_category": "Crushing assets (including drum scrubbers)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Mineral sand mining(08050)",
+    "asset_category": "Dredges",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Drying assets",
+    "asset_category": "Generally (including flash and fluid bed dryers and fluid bed heaters)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Drying assets",
+    "asset_category": "Rotary dryer kilns",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Dust management assets",
+    "asset_category": "Baghouse filters and extractors",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Dust management assets",
+    "asset_category": "Cyclones",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Dust management assets",
+    "asset_category": "Multiclones",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Dust management assets",
+    "asset_category": "Electrostatic separation assets (including curve plates, electrostatic roll separators, high tension roll separators and screen plates)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Dust management assets",
+    "asset_category": "Filtration/dewatering assets (including candle filter presses, dewatering towers, horizontal belt filters and hydrocyclones)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Dust management assets",
+    "asset_category": "Magnetic separation assets (including belt and drum separators, electromagnetic separators, induced roll and rare earth magnetic separators and wet high intensity magnets)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Dust management assets",
+    "asset_category": "Materials handling assets (including bins, bucket and conveying elevators, conveyors, feeders, hoppers, loading systems, paddle mixers and tailings stackers)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Dust management assets",
+    "asset_category": "Screening assets (including screens and trommels)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Control systems",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Pipes and pipelines (including valves and fittings)",
+    "asset_category": "Generally",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Pipes and pipelines (including valves and fittings)",
+    "asset_category": "Slurry pipework within processing facility (including slurry pipe to thickener)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Pipes and pipelines (including valves and fittings)",
+    "asset_category": "Pumps",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Tanks",
+    "asset_category": "Constant density and thickening",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Tanks",
+    "asset_category": "Generally (including acid leaching and water)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Tanks",
+    "asset_category": "Thermal reduction assets (including cooler kilns, cooling towers, heat exchangers and reduction kilns)",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Waste gas handling assets",
+    "asset_category": "Afterburners",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Waste gas handling assets",
+    "asset_category": "Cyclones",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Waste gas handling assets",
+    "asset_category": "Electrostatic precipitators",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral sand mining(08050)",
+    "broader_asset_category": "Waste gas handling assets",
+    "asset_category": "Scrubbers and stacks",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Nickel ore mining(08060)",
+    "broader_asset_category": "Nickel ore processing assets",
+    "asset_category": "Mineral treatment structures (including structure holding walkways, supporting assets and thoroughfares)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Nickel ore mining(08060)",
+    "broader_asset_category": "Nickel ore processing assets",
+    "asset_category": "Reagent pumps (including high pressure acid leach pumps)",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Construction material mining(09110 to 09190)",
+    "asset_category": "Control systems (for conveying, crushing and screening assets)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Conveyors",
+    "asset_category": "Gravity take-up",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Conveyors",
+    "asset_category": "Screw take-up",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Generally",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Mobile (track or wheel mounted machinery including screening and conveying components)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Cyclones",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Dredges",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Drill rigs",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Electrical switching assets",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Graders",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Heavy mobile quarry assets not specifically listed - see Table A Mining (06000 to 10900)",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Hydraulic oversize rock breakers (mounted above primary crusher)",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Material handling assets (including chutes, feeders, hoppers, product bins and surge bins)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Pug mills",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Screening assets",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Wheel loaders",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Construction material mining(09110 to 09190)",
+    "broader_asset_category": "Crushers",
+    "asset_category": "Wire saws",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Salt harvesting assets",
+    "asset_category": "Culverts for conveying seawater/brine/bitterns",
+    "life": "50"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Salt harvesting assets",
+    "asset_category": "Dollies",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Salt harvesting assets",
+    "asset_category": "Dozers",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Salt harvesting assets",
+    "asset_category": "Excavators",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Salt harvesting assets",
+    "asset_category": "Front end loaders",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Salt harvesting assets",
+    "asset_category": "Graders",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Salt harvesting assets",
+    "asset_category": "Harvesters",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Salt harvesting assets",
+    "asset_category": "Levees",
+    "life": "40"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Salt harvesting assets",
+    "asset_category": "Mobile pump stations",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Port assets",
+    "asset_category": "Mooring buoys",
+    "life": "25"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Port assets",
+    "asset_category": "Other port assets (including dolphins, ship loaders and stackers) - see Table A Water transport and support services (48100 to 48200 and 52110 to 52190)",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Bore pumps",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Channel feed pumps and concentrator pond pumps",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Primary intake pumps",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Tractors",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Trailers",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Trucks",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other non-metallic mineral mining and quarrying n.e.c.(09909)",
+    "broader_asset_category": "Pumps",
+    "asset_category": "Tugboats - see Table A Water transport and support services (48100 to 48200 and 52110 to 52190)",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Petroleum exploration services(10112)",
+    "broader_asset_category": "Exploration assets used offshore",
+    "asset_category": "Down hole geophysics units - skid mounted",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Petroleum exploration services(10112)",
+    "broader_asset_category": "Exploration assets used offshore",
+    "asset_category": "Drill strings",
+    "life": "3"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Petroleum exploration services(10112)",
+    "broader_asset_category": "Exploration assets used offshore",
+    "asset_category": "Offshore drilling rigs (including blow out preventers, drilling fluid circulation systems, hoisting and rotary systems, platforms, rig powering and transmissions)",
+    "life": "20"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Petroleum exploration services(10112)",
+    "broader_asset_category": "Exploration assets used onshore",
+    "asset_category": "Down hole geophysics units - truck mounted",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Petroleum exploration services(10112)",
+    "broader_asset_category": "Exploration assets used onshore",
+    "asset_category": "Drill strings",
+    "life": "4"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Petroleum exploration services(10112)",
+    "broader_asset_category": "Exploration assets used onshore",
+    "asset_category": "Onshore surface drilling rigs (including blow out preventers, derricks, drilling fluid circulation systems, hoisting and rotary systems, rig powering and transmissions)",
+    "life": "15"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Petroleum exploration services(10112)",
+    "broader_asset_category": "Exploration assets used onshore",
+    "asset_category": "Portable messing and sleeping huts",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Petroleum exploration services(10112)",
+    "broader_asset_category": "Seismic survey assets",
+    "asset_category": "Airguns",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Petroleum exploration services(10112)",
+    "broader_asset_category": "Seismic survey assets",
+    "asset_category": "Hydrophones",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Drill rigs",
+    "asset_category": "Surface (including blow out preventers, drilling fluid circulation systems, hoisting and rotary systems, rig powering and transmission and trucks)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Drill rigs",
+    "asset_category": "Underground",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Airborne geophysical assets (including magnetometers, receivers and transmitters)",
+    "asset_category": "Aircraft integrated",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Airborne geophysical assets (including magnetometers, receivers and transmitters)",
+    "asset_category": "Aircraft demountable",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Down hole geophysical assets (including acoustic televiewers, callipers, density tools, dipmeters, draw works, neutron probes, sonic probes, receiver/transmitter modules and sondes)",
+    "asset_category": "Portable assets",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Down hole geophysical assets (including acoustic televiewers, callipers, density tools, dipmeters, draw works, neutron probes, sonic probes, receiver/transmitter modules and sondes)",
+    "asset_category": "Vehicle integrated assets",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Down hole geophysical assets (including acoustic televiewers, callipers, density tools, dipmeters, draw works, neutron probes, sonic probes, receiver/transmitter modules and sondes)",
+    "asset_category": "Ground geophysical assets (including gravity instruments, resistivity receivers and transmitters, scintillometers and spectrometers)",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Down hole geophysical assets (including acoustic televiewers, callipers, density tools, dipmeters, draw works, neutron probes, sonic probes, receiver/transmitter modules and sondes)",
+    "asset_category": "Portable ground geophysical assets (including electromagnetics, ground magnetics, ground penetrating radars and radiometrics)",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Seismic survey assets",
+    "asset_category": "Cabling",
+    "life": "3"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Seismic survey assets",
+    "asset_category": "Geophones",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Seismic survey assets",
+    "asset_category": "Global positioning systems",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Seismic survey assets",
+    "asset_category": "Processing systems",
+    "life": "3"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Seismic survey assets",
+    "asset_category": "Recording systems",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Seismic survey assets",
+    "asset_category": "Total stations (including mechanical, manual, motorised, auto lock, robotic, universal and multi-stations)",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Vibration source assets",
+    "asset_category": "Buggy mounted shear wave vibrators",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Vibration source assets",
+    "asset_category": "Drilling rigs - shot hole",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Vibration source assets",
+    "asset_category": "Ground impactors",
+    "life": "4"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Mineral exploration services(10122)",
+    "broader_asset_category": "Vibration source assets",
+    "asset_category": "Portable messing and sleeping huts",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Batch mixing assets",
+    "asset_category": "Batch mixing units (excluding batch mixing units incorporated with trailers)",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Batch mixing assets",
+    "asset_category": "Trailers (incorporating batch mixing unit and trailer)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Cement silos",
+    "asset_category": "Fixed steel",
+    "life": "30"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Cement silos",
+    "asset_category": "Mobile",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Cement silos",
+    "asset_category": "Cement tankers (incorporating tank and trailer) - see Table B Motor vehicles and trailers, trailers having a gross vehicle mass greater than 4.5 tonnes",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Cement silos",
+    "asset_category": "Pumping units",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Drilling assets",
+    "asset_category": "Bottom hole assemblies (including logging while drilling tools, measuring while drilling tools, motors and stabilisers)",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Coil tubing assets",
+    "asset_category": "Pumping units",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Coil tubing assets",
+    "asset_category": "Reel and power units",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Coil tubing assets",
+    "asset_category": "Downhole fishing and remedial tools (including casing swages, junk magnets and milling tools)",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Coil tubing assets",
+    "asset_category": "Drill rigs",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Coil tubing assets",
+    "asset_category": "Drill strings",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Coil tubing assets",
+    "asset_category": "Fluid assets (including centrifuges, pumps and shear units)",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Coil tubing assets",
+    "asset_category": "Mobile fluid tanks",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Coil tubing assets",
+    "asset_category": "Well control equipment (including blow out preventers and choke manifolds)",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Hydraulic fracturing assets",
+    "asset_category": "Blenders",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Hydraulic fracturing assets",
+    "asset_category": "Frac tanks",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Hydraulic fracturing assets",
+    "asset_category": "Pumps",
+    "life": "8"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Blasting assets",
+    "asset_category": "Augers",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Blasting assets",
+    "asset_category": "Blast hole pumps",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Blasting assets",
+    "asset_category": "Explosive boxes",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Blasting assets",
+    "asset_category": "Magazines",
+    "life": "10"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Mobile processing units (MPUs)",
+    "asset_category": "Surface",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Mobile processing units (MPUs)",
+    "asset_category": "Motor vehicles - see Table B Motor vehicles and trailers",
+    "life": ""
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Mobile processing units (MPUs)",
+    "asset_category": "MPUs",
+    "life": "9"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Mobile processing units (MPUs)",
+    "asset_category": "Underground MPUs (incorporating motor vehicle and MPU)",
+    "life": "6"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Mobile processing units (MPUs)",
+    "asset_category": "Remote control blasting units",
+    "life": "5"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Mobile processing units (MPUs)",
+    "asset_category": "Stemming buckets",
+    "life": "7"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Mobile processing units (MPUs)",
+    "asset_category": "Dewatering pumps",
+    "life": "12"
+  },
+  {
+    "industry": "Mining - (06000 to 10900)",
+    "sub_industry": "Other mining support services(10900)",
+    "broader_asset_category": "Mobile processing units (MPUs)",
+    "asset_category": "Surface drill rigs (production)",
+    "life": "10"
+  }
+]

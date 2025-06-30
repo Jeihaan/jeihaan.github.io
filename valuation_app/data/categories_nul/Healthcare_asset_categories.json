@@ -1,0 +1,2354 @@
+[
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "HEALTH CARE AND SOCIAL ASSISTANCE(84010 to 87900)",
+    "broader_asset_category": "Medical assets (used in common across all health care industry segments)",
+    "asset_category": "Benchtop sterilisers",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "HEALTH CARE AND SOCIAL ASSISTANCE(84010 to 87900)",
+    "broader_asset_category": "Medical assets (used in common across all health care industry segments)",
+    "asset_category": "Benchtop ultrasonic cleaners",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "HEALTH CARE AND SOCIAL ASSISTANCE(84010 to 87900)",
+    "broader_asset_category": "Medical assets (used in common across all health care industry segments)",
+    "asset_category": "Clinical furniture",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "HEALTH CARE AND SOCIAL ASSISTANCE(84010 to 87900)",
+    "broader_asset_category": "Medical assets (used in common across all health care industry segments)",
+    "asset_category": "X-ray viewers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Hospital assets",
+    "asset_category": "Anaesthesia machines",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Angiography assets",
+    "asset_category": "Image acquisition systems (incorporating computers with digital subtraction capability, digital cameras, monitors and integrated software)",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Angiography assets",
+    "asset_category": "Image intensifiers",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Angiography assets",
+    "asset_category": "Patient gantries or tables, patient monitoring assets, positioning assets and pressure injectors",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Angiography assets",
+    "asset_category": "Cell savers and cell separators",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Angiography assets",
+    "asset_category": "Colposcopes",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Angiography assets",
+    "asset_category": "Defibrillators",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Angiography assets",
+    "asset_category": "Diathermy and cautery machines/electrosurgical generators",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic surgery assets (excluding disposable accessories)",
+    "asset_category": "Arthroscopic fluid management systems",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic surgery assets (excluding disposable accessories)",
+    "asset_category": "Endoscopes (flexible and rigid) and endoscopic surgical instruments",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic camera systems",
+    "asset_category": "Beam splitters and light sources",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic camera systems",
+    "asset_category": "Printers, video cameras, video camera adaptors, couplers and heads, video image capture systems and video processors",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic camera systems",
+    "asset_category": "Still cameras",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic camera systems",
+    "asset_category": "Video monitors and video recorders",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic camera systems",
+    "asset_category": "Endoscopic electrosurgical generators",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic camera systems",
+    "asset_category": "Endoscopic lasers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic camera systems",
+    "asset_category": "Endoscopic ultrasound systems (incorporating scanner, transducers/probes, integrated computer and integrated software)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic camera systems",
+    "asset_category": "Haemodialysis machines",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Endoscopic camera systems",
+    "asset_category": "Head lights",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Electronic",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Mechanical",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Bedside cabinets/lockers, carts and poles, blanket warming cabinets, blood warming cabinets, medical refrigerators and overbed tables",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Infusion pumps",
+    "asset_category": "General, pain management and rapid",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Infusion pumps",
+    "asset_category": "Syringe driven",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Infusion pumps",
+    "asset_category": "Insufflators",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Infusion pumps",
+    "asset_category": "Lithotriptors used for extra-corporeal shock wave lithotripsy",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Mechanical assist assets",
+    "asset_category": "Calf and cuff compression devices",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Mechanical assist assets",
+    "asset_category": "Cardiac bypass and heart lung machines",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Mechanical assist assets",
+    "asset_category": "Intra-aortic balloon pumps",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Mechanical assist assets",
+    "asset_category": "Ventricular assist heart pumps",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Mechanical assist assets",
+    "asset_category": "Natal care assets (including incubators, infant warmers and mobile infant warmers)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Operating tables and attachments",
+    "asset_category": "Electronic",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Operating tables and attachments",
+    "asset_category": "Mechanical",
+    "life": "13"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Operating tables and attachments",
+    "asset_category": "Operating theatre lights",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Operating tables and attachments",
+    "asset_category": "Pan flushers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Operating tables and attachments",
+    "asset_category": "Patient hoists and lifters",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Patient monitoring assets",
+    "asset_category": "Bedside monitoring systems",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Patient monitoring assets",
+    "asset_category": "Cardiac monitors",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Patient monitoring assets",
+    "asset_category": "ECGs",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Patient monitoring assets",
+    "asset_category": "Foetal monitors",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Patient monitoring assets",
+    "asset_category": "Pulse oximeters",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Patient monitoring assets",
+    "asset_category": "Vital signs monitors",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Patient warming assets (excluding disposable accessories)",
+    "asset_category": "Fluid warmers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Patient warming assets (excluding disposable accessories)",
+    "asset_category": "Forced air patient warmers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Patient warming assets (excluding disposable accessories)",
+    "asset_category": "Smoke evacuators",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Sterilisation and autoclave processing assets",
+    "asset_category": "Drying cabinets",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Sterilisation and autoclave processing assets",
+    "asset_category": "Endoscope sterilisers and disinfectors",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Sterilisation and autoclave processing assets",
+    "asset_category": "Flash sterilisers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Sterilisation and autoclave processing assets",
+    "asset_category": "Instrument washers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Sterilisation and autoclave processing assets",
+    "asset_category": "Pre-vacuum sterilisers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Sterilisation and autoclave processing assets",
+    "asset_category": "Ultrasonic cleaners and baths",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Surgical instruments",
+    "asset_category": "Hand held manually operated instruments",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Surgical instruments",
+    "asset_category": "Powered instruments (including drills, saws, shavers, non-disposable instrument accessories and power sources)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Surgical instruments",
+    "asset_category": "Ultrasonic aspirators",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Surgical instruments",
+    "asset_category": "Ultrasonic scalpels",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Surgical instruments",
+    "asset_category": "Surgical lasers (excluding ophthalmic surgical lasers)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Surgical instruments",
+    "asset_category": "Surgical microscopes",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Surgical instruments",
+    "asset_category": "Ultrasonic bladder scanners",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Surgical instruments",
+    "asset_category": "Ultrasonic needle guides",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Surgical instruments",
+    "asset_category": "Ultrasound systems (incorporating scanner, transducers, integrated computer and integrated software) used by cardiologists, obstetricians and vascular surgeons",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Ventilators",
+    "asset_category": "Fixed",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Ventilators",
+    "asset_category": "Portable",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Hospitals(84010 to 84020)",
+    "broader_asset_category": "Ventilators",
+    "asset_category": "Wheelchairs",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "General practice medical services(85110)",
+    "asset_category": "Anatomical medical models, plastic",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "General practice medical services(85110)",
+    "asset_category": "Autoclaves and sterilisers",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "General practice medical services(85110)",
+    "asset_category": "Automated ankle brachial pressure index (ABPI) measurement devices",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "General practice medical services(85110)",
+    "asset_category": "Automated external defibrillators (AEDs) - see Table B",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "General practice medical services(85110)",
+    "asset_category": "Blood coagulation (INR) meters",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Cryosurgical assets",
+    "asset_category": "Cryosurgical flasks and guns",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Cryosurgical assets",
+    "asset_category": "Liquid nitrogen storage dewers and tanks",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Cryosurgical assets",
+    "asset_category": "Dermatoscopes",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Cryosurgical assets",
+    "asset_category": "Ear irrigators",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Cryosurgical assets",
+    "asset_category": "Electrocardiograph (ECG) machines",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Desktop/trolley",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Procedure",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Foetal heart monitors, external",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Hyfrecators - electrosurgical units",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Magnifying loupes",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Medical examination beds (adjustable/electric)",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Medical plaster saws",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Medical refrigerators",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Nebulisers",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Ophthalmoscopes, direct and otoscopes",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Oxygen tank regulators",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Portable observation machines (including vital signs monitors)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Privacy curtains and rails",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Pulse oximeters",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Resuscitation kits",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Examination lights",
+    "asset_category": "Saddle chairs",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "Baby scales",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "General, heavy duty, mother/baby scales",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "Sphygmomanometers (including aneroid and digital)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "Spirometers",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "Stethoscopes",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "Suction machines, portable",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "Surgical instruments (including forceps, needle holders, scissors, skin graft knives)",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "Thermometers, digital",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "Trolleys (including instrument and treatment trolleys)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "Wheelchairs",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "General practice medical services(85110)",
+    "broader_asset_category": "Scales",
+    "asset_category": "X-ray viewers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Specialist medical services n.e.c.(85129)",
+    "broader_asset_category": "Neurologists' assets",
+    "asset_category": "Electroencephalography (EEG) systems (incorporating electrodes, amplifiers, integrated software and integrated computers)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Specialist medical services n.e.c.(85129)",
+    "broader_asset_category": "Neurologists' assets",
+    "asset_category": "Electromyography (EMG) systems (incorporating electrodes, amplifiers, integrated software and integrated computers)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Specialist medical services n.e.c.(85129)",
+    "broader_asset_category": "Thoracic physicians' assets",
+    "asset_category": "Body plethysmographs (incorporating flow sensors, gas analysers, integrated software and integrated computers)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Specialist medical services n.e.c.(85129)",
+    "broader_asset_category": "Thoracic physicians' assets",
+    "asset_category": "Continuous positive airway pressure (CPAP) and variable positive airway pressure (VPAP) systems",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Specialist medical services n.e.c.(85129)",
+    "broader_asset_category": "Thoracic physicians' assets",
+    "asset_category": "Lung function analysis exercise systems (incorporating flow sensors, treadmills or ergometers, ECGs, pulse oximeters, integrated software and integrated computers)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Specialist medical services n.e.c.(85129)",
+    "broader_asset_category": "Thoracic physicians' assets",
+    "asset_category": "Lung function analysis systems (incorporating flow sensors, gas analysers, integrated software and integrated computers)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Specialist medical services n.e.c.(85129)",
+    "broader_asset_category": "Thoracic physicians' assets",
+    "asset_category": "Spirometers",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Specialist medical services n.e.c.(85129)",
+    "broader_asset_category": "Thoracic physicians' assets",
+    "asset_category": "Sleep laboratory systems (incorporating amplifiers, sensors, integrated CPAP monitors, integrated carbon dioxide (CO2) monitors, integrated pulse oximeters, integrated computers and integrated software)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Pathologists' assets",
+    "asset_category": "Batch slide stainer",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Pathologists' assets",
+    "asset_category": "Bio hazard chambers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Pathologists' assets",
+    "asset_category": "Centrifuges",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Pathologists' assets",
+    "asset_category": "Incubators",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Pathologists' assets",
+    "asset_category": "Laboratory analysers",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Pathologists' assets",
+    "asset_category": "Microscopes",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Pathologists' assets",
+    "asset_category": "Rotary microtomes",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Pathologists' assets",
+    "asset_category": "Tissue embedding systems",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Pathologists' assets",
+    "asset_category": "Tissue processors",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Radiologists' diagnostic imaging assets",
+    "asset_category": "Bone densitometry (BMD) systems (incorporating either whole body scanners, integrated computer andintegrated software, or spine and hip scanners, holding devices, integrated computers and integrated software)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Radiologists' diagnostic imaging assets",
+    "asset_category": "Computed radiography (CR) digitisers",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Radiologists' diagnostic imaging assets",
+    "asset_category": "Computed tomography (CT) systems (incorporating scanners, integrated computers and integrated software)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Radiologists' diagnostic imaging assets",
+    "asset_category": "Film digitisers",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Fluoroscopy assets (excluding direct radiography assets)",
+    "asset_category": "Fixed systems (incorporating buckies, generators, screening tables and suspensions)",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Fluoroscopy assets (excluding direct radiography assets)",
+    "asset_category": "Image acquisition systems (incorporating computers, digital cameras, integrated software and monitors)",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Fluoroscopy assets (excluding direct radiography assets)",
+    "asset_category": "Image intensifiers",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Fluoroscopy assets (excluding direct radiography assets)",
+    "asset_category": "Mobile systems (incorporating buckies, generators, screening tables and suspensions)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Fluoroscopy assets (excluding direct radiography assets)",
+    "asset_category": "Magnetic resonance imaging (MRI) systems (incorporating scanners, cooling systems, radio frequency coil accessories, integrated computer and integrated software)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Fluoroscopy assets (excluding direct radiography assets)",
+    "asset_category": "Mammography systems (incorporating either prone core biopsy scanners, quality assurance equipment, stereotaxis, integrated computers and integrated software, or conventional upright scanners, quality assurance equipment, stereotaxis, integrated computer and integrated software)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Fluoroscopy assets (excluding direct radiography assets)",
+    "asset_category": "Nuclear medicine systems (incorporating cameras, gantries, collimators, integrated computers, integrated software and hot lab equipment, but excluding Positron Emission Tomography (PET) systems)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Fluoroscopy assets (excluding direct radiography assets)",
+    "asset_category": "Orthopantomography (OPG) systems (incorporating scanners, integrated computers and integrated software)",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Fluoroscopy assets (excluding direct radiography assets)",
+    "asset_category": "Patient archival and communication systems (PACS)",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Processing assets",
+    "asset_category": "Daylight imaging processors",
+    "life": "9"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Processing assets",
+    "asset_category": "Dry laser imaging processors",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Processing assets",
+    "asset_category": "Wet laser imaging processors",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Processing assets",
+    "asset_category": "Teleradiology assets (excluding the imaging device)",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "Processing assets",
+    "asset_category": "Ultrasound systems (incorporating scanner, transducers, integrated computer and integrated software)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "X-ray assets (excluding direct radiography assets)",
+    "asset_category": "Fixed systems (incorporating buckies, control panels, generators, screening table, suspensions, tube column and x-ray tube)",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "X-ray assets (excluding direct radiography assets)",
+    "asset_category": "Image intensifier",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Pathology and diagnostic imaging services(85201, 85202, 85203 and 85209)",
+    "broader_asset_category": "X-ray assets (excluding direct radiography assets)",
+    "asset_category": "Mobile systems (incorporating buckies, control panels, generators, screening table, suspensions, tube column and x-ray tube)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dentists' assets",
+    "asset_category": "Air abrasion units",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dentists' assets",
+    "asset_category": "Air compressors",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dentists' assets",
+    "asset_category": "Amalgamators",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dentists' assets",
+    "asset_category": "Amalgam separators",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Computerised (CAD/CAM) ceramic restoration systems",
+    "asset_category": "Imaging units",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Computerised (CAD/CAM) ceramic restoration systems",
+    "asset_category": "Milling units",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Computerised (CAD/CAM) ceramic restoration systems",
+    "asset_category": "Curing lights (halogen)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Computerised (CAD/CAM) ceramic restoration systems",
+    "asset_category": "Dental chairs",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental instruments",
+    "asset_category": "Hand-held manually operated instruments",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental instruments",
+    "asset_category": "Handpieces (driven by compressed air, compressed gas or electricity)",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental lasers",
+    "asset_category": "Hard tissue and soft tissue lasers",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental lasers",
+    "asset_category": "Soft tissue and whitening lasers",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental lasers",
+    "asset_category": "Soft tissue lasers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental lasers",
+    "asset_category": "Dental loupes",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental lasers",
+    "asset_category": "Dental operating lights",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental lasers",
+    "asset_category": "Dental units",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental x-ray assets",
+    "asset_category": "Conventional x-ray film systems (incorporating control boxes, swing arms and x-ray heads, but excluding orthopantomogram (OPG) systems)",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental x-ray assets",
+    "asset_category": "Digital x-ray systems (including intra-oral storage phosphor plate systems and intra-oral digital sensor systems)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental x-ray assets",
+    "asset_category": "Intra-oral x-ray film processors",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental x-ray assets",
+    "asset_category": "Handpiece cleaners",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental x-ray assets",
+    "asset_category": "Intra-oral camera systems (incorporating camera and integrated processor/docking station)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental x-ray assets",
+    "asset_category": "Nitrous oxide sedation units",
+    "life": "20"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental x-ray assets",
+    "asset_category": "Oral surgical motors",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental x-ray assets",
+    "asset_category": "Suction units",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Dental services(85310)",
+    "broader_asset_category": "Dental x-ray assets",
+    "asset_category": "Ultrasonic scalers (standalone)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Optical assets",
+    "asset_category": "Automatic refractometers/keratometers",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Cameras (including anterior segment cameras, retinal cameras, fundus cameras)",
+    "asset_category": "Analogue",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Cameras (including anterior segment cameras, retinal cameras, fundus cameras)",
+    "asset_category": "Digital",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Cameras (including anterior segment cameras, retinal cameras, fundus cameras)",
+    "asset_category": "Colour vision testers (automated)",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Cameras (including anterior segment cameras, retinal cameras, fundus cameras)",
+    "asset_category": "Corneal topography systems",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Cameras (including anterior segment cameras, retinal cameras, fundus cameras)",
+    "asset_category": "Examination chairs",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Cameras (including anterior segment cameras, retinal cameras, fundus cameras)",
+    "asset_category": "Glaucoma diagnostic assets (including ocular coherence tomographs (OCTs), scanning laser ophthalmoscopes and scanning laser polarimeters)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Keratometers (Ophthalmometers)",
+    "asset_category": "Automated",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Keratometers (Ophthalmometers)",
+    "asset_category": "Manual",
+    "life": "12"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic surgery assets",
+    "asset_category": "Microkeratome",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic surgery assets",
+    "asset_category": "Ophthalmic cryo surgery systems",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic surgery assets",
+    "asset_category": "Ophthalmic diathermy surgery systems",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic lasers",
+    "asset_category": "Non-refractive",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic lasers",
+    "asset_category": "Refractive (including eye tracking systems)",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic lasers",
+    "asset_category": "Phacoemulsification systems",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic lasers",
+    "asset_category": "Pupillometers (used for refractive surgery)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic lasers",
+    "asset_category": "Vitrectomy systems",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic lasers",
+    "asset_category": "Wave front analysers",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmic lasers",
+    "asset_category": "Ophthalmic viewers",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmoscopes",
+    "asset_category": "Direct (including power supply)",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmoscopes",
+    "asset_category": "Indirect",
+    "life": "9"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmoscopes",
+    "asset_category": "Optical dispensing assets - see Table A Photographic, optical and ophthalmic equipment manufacturing (24110)",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmoscopes",
+    "asset_category": "Refraction units (including examination chair, instrument arms, table and light source)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Ophthalmoscopes",
+    "asset_category": "Refractometers (automated)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Slit lamp biomicroscopes",
+    "asset_category": "Hand-held",
+    "life": "9"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Slit lamp biomicroscopes",
+    "asset_category": "Mounted",
+    "life": "12"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Slit lamp biomicroscopes",
+    "asset_category": "Telemedicine digital imaging systems (excluding imaging devices)",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Applanation",
+    "asset_category": "Hand-held",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Applanation",
+    "asset_category": "Mounted",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Applanation",
+    "asset_category": "Electronic",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Non-contact tonometers",
+    "asset_category": "Hand-held",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Non-contact tonometers",
+    "asset_category": "Table mounted",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Non-contact tonometers",
+    "asset_category": "Trial lens sets",
+    "life": "20"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Non-contact tonometers",
+    "asset_category": "Ultrasound diagnostic assets (including A-scan biometers, A/B scan biometers, B-scan biometers, laser interference biometers, pachymeters and ultrasound biomicroscopes (UBMs))",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Visual acuity testing assets",
+    "asset_category": "Automated vision testers",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Visual acuity testing assets",
+    "asset_category": "Manual vision testers (phoropters)",
+    "life": "12"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Visual acuity testing assets",
+    "asset_category": "Visual acuity charts (illuminated)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Visual acuity testing assets",
+    "asset_category": "Visual acuity chart projectors (automated)",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Optometry and optical dispensing(85320)",
+    "broader_asset_category": "Visual acuity testing assets",
+    "asset_category": "Visual field testing assets (perimeters) - automated",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Computerised orthoses manufacturing assets",
+    "asset_category": "Carving mills",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Computerised orthoses manufacturing assets",
+    "asset_category": "Contact pin digitisers",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Computerised orthoses manufacturing assets",
+    "asset_category": "Doppler vascularscopes",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Electric nail drills",
+    "asset_category": "Dust extraction drills",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Electric nail drills",
+    "asset_category": "Portable dust extraction drills",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Electric nail drills",
+    "asset_category": "Water and alcohol based spray drills",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Electric nail drills",
+    "asset_category": "Examination/magnifying lamps",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Electric nail drills",
+    "asset_category": "Footrests",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Gait analysis assets",
+    "asset_category": "Computerised systems (incorporating in-shoe pressure analysis or platform based pressure mats, integrated hardware and integrated software)",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Non-computerised",
+    "asset_category": "Treadmills",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Non-computerised",
+    "asset_category": "Video cameras",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Non-computerised",
+    "asset_category": "Video monitors and video recorders",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Non-computerised",
+    "asset_category": "Orthotic benchtop grinders",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Non-computerised",
+    "asset_category": "Patient chairs",
+    "life": "12"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Non-computerised",
+    "asset_category": "Podiatric instruments",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Non-computerised",
+    "asset_category": "Vacuum presses",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Vascular neurological assessment assets",
+    "asset_category": "Monofilaments",
+    "life": "2"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Podiatry services(85399)",
+    "broader_asset_category": "Vascular neurological assessment assets",
+    "asset_category": "Tuning forks",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Electronic (including hi-lo and lo-lo beds)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Mechanical",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Bedside cabinets, lockers and overbed tables",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Blood pressure machines",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Call systems",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Chairs",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Commode",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Electronic recliner (including electric lift)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Fallout/floating/princess",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Shower",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Wheelchair - electric, manual, tilt in space",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Defibrillators",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Drug safes",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Electronic arms for toilets",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Hoists",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Ceiling (incorporating tracks)",
+    "life": "12"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Mobile (floor, full, standing)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Lifting slings",
+    "life": "2"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Mattresses",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Air",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Foam",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Medication trolleys",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Mobile suction machines",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Pan flushers/pan sanitisers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Sensor beams and sensor mats",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Shower trolleys/mobile baths",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Syringe driven infusion pumps",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Treatment trolleys",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Walking belts",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Walking frames (including forearm walkers)",
+    "life": "12"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Beds",
+    "asset_category": "Weighing machines and scales (including chair scales and wheelchair scales)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Common area assets",
+    "asset_category": "Artificial grass/synthetic lawn (removable without damage)",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Common area assets",
+    "asset_category": "Audio visual assets",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Common area assets",
+    "asset_category": "Carpets - see Table B Floor coverings (removable without damage)",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Common area assets",
+    "asset_category": "Curtains and drapes - see Table B Curtains and drapes",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Furniture",
+    "asset_category": "General/indoor",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Furniture",
+    "asset_category": "Outdoor",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Furniture",
+    "asset_category": "Hair salon assets (including chairs and dryers)",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Furniture",
+    "asset_category": "Hot water dispensers",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Furniture",
+    "asset_category": "Television sets",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Furniture",
+    "asset_category": "Window blinds - see Table B Window blinds",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Fitness and recreation assets",
+    "asset_category": "Billiard/pool tables",
+    "life": "20"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Fitness and recreation assets",
+    "asset_category": "Bowling greens - artificial grass or carpet (removable without damage)",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Fitness and recreation assets",
+    "asset_category": "Gymnasium and exercise equipment",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Annunciator panels",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Boilers - see Table B Boilers",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Buggies to transport people",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Cleaning carts and trolleys - see Table B Cleaning carts and trolleys",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Cool rooms - see Table B Refrigeration assets",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Electronic mops and floor scrubbers",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Hot water systems (excluding commercial boilers and piping)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Blast chillers",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Bowl mixers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Dishwashers",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Food preparation assets - large commercial type (including cooktops, fryers, multi-function centres, self-cooking centres, single tray meal service, soup kettles, stoves)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Hot food display and warming assets (including bain marie, banquet units, buffet units, hot boxes, plate warmers)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Ice making machines",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Kitchen trolleys",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Small appliances (including blenders, food processors, meat slicers, stick mixers)",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Toasters",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Dryers",
+    "life": "12"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Spring loaded trolleys",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Washing machines",
+    "life": "12"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Lockers, freestanding - see Table B Lockers, freestanding",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Master antenna television (MATV) assets - see Table A Residential property operators (67110)",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Refrigerators (including controlled temperature medication refrigerators)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Swimming pool assets",
+    "asset_category": "Dehumidifiers",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Swimming pool assets",
+    "asset_category": "Filtration equipment (including chlorinators and pumps) - see Table B Swimming pool assets",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Swimming pool assets",
+    "asset_category": "Pool covers (including blankets) - see Table B Swimming pool assets",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Retirement village and accommodation for the aged operation(86011 to 86012)",
+    "broader_asset_category": "Swimming pool assets",
+    "asset_category": "Vacuum cleaners, ride on",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Child care services(87100)",
+    "asset_category": "Audio visual assets",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Child care services(87100)",
+    "asset_category": "Augmented reality (AR) interactive sandboxes (incorporating projectors)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Child care services(87100)",
+    "asset_category": "Electronic whiteboards (including touch screen interactive digital boards)",
+    "life": "6"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Furniture used by children, freestanding",
+    "asset_category": "Age specific (including cots, changing tables, floor sleeping mattresses, high and low feeding chairs, and stackable beds)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Furniture used by children, freestanding",
+    "asset_category": "Carpet mats (including rugs and floor mats/cushions)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Furniture used by children, freestanding",
+    "asset_category": "Others (including bookcases, chairs and sofas, coat/dress-up racks, easels, room dividers, tables and storage shelving units)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Play area assets",
+    "asset_category": "Furniture, freestanding (including tables, seating and toy storage boxes)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Play area assets",
+    "asset_category": "Pet enclosures and structures, freestanding (including bird aviaries, chicken coops, fish tanks, guinea pig cages and rabbit hutches)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Playground flooring",
+    "asset_category": "Artificial grass/synthetic lawn",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Playground flooring",
+    "asset_category": "Soft fall flooring (including wet pour rubber and rubber mats)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Playground flooring",
+    "asset_category": "Playsets (including cubby houses, forts, slides, swing sets and trestle frames)",
+    "life": "8"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Playground flooring",
+    "asset_category": "Pole and post padding/protectors",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Playground flooring",
+    "asset_category": "Sandpits, freestanding (including portable sandpits and sandpit covers)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Playground flooring",
+    "asset_category": "Tents, portable (including gazebos, marquees and tepee play tents)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Playground flooring",
+    "asset_category": "Toys (not specified elsewhere)",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Playground flooring",
+    "asset_category": "Tricycles and bicycles (including balance bicycles and tricycle scooters)",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Playground flooring",
+    "asset_category": "Water play area filtration assets and water pumps",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Automated external defibrillators (AEDs) - see Table B Automated external defibrillators (AEDs)",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Fascia signs (including freestanding signs) - see Table B Advertising signs",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Fire control and alarm assets - see Table B Fire control and alarm assets",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Floor coverings - see Table B Floor coverings (removable without damage)",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Garden sheds, freestanding",
+    "life": "15"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Hand dryers - see Table B Hand dryers (electrical)",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Support assets",
+    "asset_category": "Kiosk stands, freestanding",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Dishwashers",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Food cooking assets (including combination ovens, cooktops, fryers, soup kettles and stoves)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Grease traps",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Kitchen trolleys",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Microwave ovens",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Refrigerators/freezers",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Kitchen assets",
+    "asset_category": "Small appliances (including blenders, food processors, mixers and toasters)",
+    "life": "4"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Dryers",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Washing machines",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Reception furniture, freestanding (including lobby chairs, desks, lounges, sofas and tables) - see Table B Office furniture, freestanding",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Security and monitoring assets - see Table B Security and monitoring assets",
+    "life": ""
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Laundry assets",
+    "asset_category": "Steam cleaners",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Strollers",
+    "asset_category": "Commercial multi seat (including buggies)",
+    "life": "10"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Strollers",
+    "asset_category": "Others",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Strollers",
+    "asset_category": "Time attendance devices (including fingerprint and vein scanners)",
+    "life": "7"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Strollers",
+    "asset_category": "Vacuum cleaners",
+    "life": "3"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Strollers",
+    "asset_category": "Table games",
+    "life": "5"
+  },
+  {
+    "industry": "Health care and social assistance - (84010 to 87900)",
+    "sub_industry": "Child care services(87100)",
+    "broader_asset_category": "Strollers",
+    "asset_category": "Television sets",
+    "life": "8"
+  }
+]

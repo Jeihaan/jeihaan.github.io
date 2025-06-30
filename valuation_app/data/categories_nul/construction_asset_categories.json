@@ -1,0 +1,429 @@
+[
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Air compressors",
+    "asset_category": "Compressors - reciprocating",
+    "life": "7"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Air compressors",
+    "asset_category": "Compressors - rotary screw",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Air compressors",
+    "asset_category": "Backhoe loaders",
+    "life": "9"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Air compressors",
+    "asset_category": "Bending machines (bar, angle or rod)",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Air compressors",
+    "asset_category": "Block and brick elevators (portable)",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Air compressors",
+    "asset_category": "Chain blocks, rod shears, jacks etc",
+    "life": "13 \r\n⅓"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Compaction",
+    "asset_category": "Compactors - flat plate",
+    "life": "8"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Compaction",
+    "asset_category": "Compactors - vertical rammer",
+    "life": "6"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concreting assets",
+    "asset_category": "Brick and paving saws",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concreting assets",
+    "asset_category": "Buggies or dumpers (motorised)",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concreting assets",
+    "asset_category": "Concrete demolition saws",
+    "life": "3"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concreting assets",
+    "asset_category": "Concrete kibble buckets",
+    "life": "15"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concreting assets",
+    "asset_category": "Concrete mixers",
+    "life": "4"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concreting assets",
+    "asset_category": "Concrete surface preparation assets (including floor grinders, planers and scarifiers)",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete trowels",
+    "asset_category": "Ride on",
+    "life": "7"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete trowels",
+    "asset_category": "Walk behind",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete trowels",
+    "asset_category": "Concrete vibrating screeders",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete vibrators",
+    "asset_category": "Brushcutter style",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete vibrators",
+    "asset_category": "Drive units",
+    "life": "6"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete vibrators",
+    "asset_category": "Flexible shaft pumps",
+    "life": "6"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete vibrators",
+    "asset_category": "Vibrating shaft",
+    "life": "3"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete vibrators",
+    "asset_category": "Concrete wheeled saws",
+    "life": "6"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete vibrators",
+    "asset_category": "Hoppers, skips and hoist buckets",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Concrete vibrators",
+    "asset_category": "Mobile concrete pumping units",
+    "life": "6 \r\n⅔"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Light and medium",
+    "life": "15"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Heavy (over 15.24 tonnes lift)",
+    "life": "20"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Tower and hoists",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Dozers/front end loaders",
+    "life": "9"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Forklifts",
+    "life": "11"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Formwork, beams and props, steel",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Hydraulic excavators",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Lift slab assets (incorporating spreader bars, clutches, pulleys and cables)",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Mini excavators",
+    "life": "8"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Motor graders",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Cranes (mobile)",
+    "asset_category": "Pavers",
+    "life": "12"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Generators, portable (incorporating attached engine management and generator monitoring instruments)",
+    "asset_category": "Diesel",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Generators, portable (incorporating attached engine management and generator monitoring instruments)",
+    "asset_category": "Petrol",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Power tools",
+    "asset_category": "Chainsaws (Chain saws)",
+    "life": "3"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Hand tools",
+    "asset_category": "Air",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Hand tools",
+    "asset_category": "Battery",
+    "life": "3"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Hand tools",
+    "asset_category": "Electric",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Air",
+    "life": "7"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Electric",
+    "life": "3"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Nail guns - air",
+    "life": "3"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Profilers",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Pumps",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Road rollers",
+    "life": "15"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Saws, bench and mitre, portable",
+    "life": "7"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Scrapers",
+    "life": "8"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Skid steer loaders",
+    "life": "7"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Stabiliser recyclers",
+    "life": "12"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Surveying assets (including levels) - see Table A Surveying and mapping services (69220)",
+    "life": ""
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Telescopic handlers",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Tool carriers",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Track loaders",
+    "life": "9"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Jack hammers",
+    "asset_category": "Traffic management assets (use the relevant lives given under Table A Rental and hiring services (except real estate) (66110 to 66400), whether or not the assets are in fact hired or leased)",
+    "life": ""
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Welders",
+    "asset_category": "Diesel",
+    "life": "10"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Welders",
+    "asset_category": "Electric",
+    "life": "5"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Welders",
+    "asset_category": "Wheel loaders",
+    "life": "8"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "CONSTRUCTION(30110 to 32990)",
+    "broader_asset_category": "Welders",
+    "asset_category": "Winches",
+    "life": "13 \r\n⅓"
+  },
+  {
+    "industry": "Construction - (30110 to 32990)",
+    "sub_industry": "Other heavy and civil engineering construction(31099)",
+    "broader_asset_category": "Other heavy and civil engineering construction(31099)",
+    "asset_category": "Automatic welding machines (used at sea in construction of submarine pipelines)",
+    "life": "10"
+  }
+]
