@@ -2,6 +2,16 @@
 
 This repository contains sample web assets and a small Flask application for a tangible asset valuation demo. The `valuation_app` folder provides a simple interface to upload a Fixed Asset Register and calculate each asset's age based on a valuation date.
 
+## Cloning the Repository
+
+Clone the repository and navigate into its directory:
+
+```bash
+git clone https://github.com/jeihaan/jeihaan.github.io.git
+cd jeihaan.github.io
+```
+
+
 ## Running the Valuation App
 
 1. Install dependencies:
