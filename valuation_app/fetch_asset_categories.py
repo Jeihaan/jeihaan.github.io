@@ -24,7 +24,9 @@ def fetch_asset_categories(url: str = URL) -> List[Dict[str, str]]:
     records: List[Dict[str, str]] = []
     current_industry: Optional[str] = None
     current_sub_industry: Optional[str] = None
+
     current_broader: Optional[str] = None
+
 
     for element in soup.find_all(["h3", "h4", "table"]):
         if element.name == "h3":
@@ -58,6 +60,7 @@ def fetch_asset_categories(url: str = URL) -> List[Dict[str, str]]:
                 if heading and first_text.endswith(":"):
                     current_broader = first_text.rstrip(":").strip()
                     continue
+
 
                 if len(cols) >= 2:
                     records.append({
