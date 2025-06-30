@@ -1,0 +1,88 @@
+{
+  "resources": [],
+  "references": {
+    "urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=ABS:PPI(1.1.3)": {
+      "id": "PPI",
+      "name": "Producer Price Indexes by Industry",
+      "description": "Contains a range of producer price indexes in the Australian economy, comprising mining, manufacturing, construction and service industries. Unit of measure: Index/percent. Geographic coverage: Australia. Catalogue number: 6427.0",
+      "agencyID": "ABS",
+      "version": "1.1.3",
+      "isFinal": true,
+      "urn": "urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=ABS:PPI(1.1.3)",
+      "annotations": [
+        {
+          "type": "NonProductionDataflow",
+          "text": "true"
+        },
+        {
+          "title": "TIME_PERIOD",
+          "type": "LAYOUT_COLUMN"
+        },
+        {
+          "title": "INDEX",
+          "type": "LAYOUT_ROW"
+        },
+        {
+          "type": "LAYOUT_ROW_SECTION"
+        },
+        {
+          "title": "MEASURE=1,TYPE=OUTPUT,FREQ=Q,TIME_PERIOD_START=2022-Q1",
+          "type": "DEFAULT"
+        },
+        {
+          "type": "EXT_RESOURCE",
+          "text": "Methodology|https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/producer-price-indexes-australia/latest-release#methodology|https://www.abs.gov.au/ausstats/wmdata.nsf/activeimages/methodology/$File/methodology.png"
+        }
+      ],
+      "structure": {
+        "urn": "urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=ABS:PPI(1.1.3)"
+      }
+    },
+    "urn:sdmx:org.sdmx.infomodel.categoryscheme.CategoryScheme=ABS:ECONOMY(1.0.0)": {
+      "id": "ECONOMY",
+      "name": "Economy",
+      "agencyID": "ABS",
+      "version": "1.0.0",
+      "isFinal": true,
+      "urn": "urn:sdmx:org.sdmx.infomodel.categoryscheme.CategoryScheme=ABS:ECONOMY(1.0.0)",
+      "items": [
+        {
+          "id": "PRICE_INDEX_INFLATION",
+          "name": "Price indexes and inflation",
+          "urn": "urn:sdmx:org.sdmx.infomodel.categoryscheme.Category=ABS:ECONOMY(1.0.0).PRICE_INDEX_INFLATION",
+          "links": [
+            {
+              "href": "urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=ABS:PPI(1.1.3)",
+              "rel": "dataflow"
+            }
+          ]
+        },
+        {
+          "id": "NATIONAL_ACCOUNTS",
+          "name": "National accounts",
+          "urn": "urn:sdmx:org.sdmx.infomodel.categoryscheme.Category=ABS:ECONOMY(1.0.0).NATIONAL_ACCOUNTS"
+        },
+        {
+          "id": "INTERNATIONAL_TRADE",
+          "name": "International trade",
+          "urn": "urn:sdmx:org.sdmx.infomodel.categoryscheme.Category=ABS:ECONOMY(1.0.0).INTERNATIONAL_TRADE"
+        },
+        {
+          "id": "BUSINESS_INDICATORS",
+          "name": "Business indicators",
+          "urn": "urn:sdmx:org.sdmx.infomodel.categoryscheme.Category=ABS:ECONOMY(1.0.0).BUSINESS_INDICATORS"
+        },
+        {
+          "id": "FINANCE",
+          "name": "Finance",
+          "urn": "urn:sdmx:org.sdmx.infomodel.categoryscheme.Category=ABS:ECONOMY(1.0.0).FINANCE"
+        },
+        {
+          "id": "GOVERNMENT",
+          "name": "Government",
+          "urn": "urn:sdmx:org.sdmx.infomodel.categoryscheme.Category=ABS:ECONOMY(1.0.0).GOVERNMENT"
+        }
+      ]
+    }
+  }
+}
