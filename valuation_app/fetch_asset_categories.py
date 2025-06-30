@@ -33,7 +33,19 @@ def fetch_asset_categories(url: str = URL) -> List[Dict[str, str]]:
             current_sub_industry = element.get_text(strip=True)
         elif element.name == "table" and current_industry:
             rows = element.find_all("tr")
-            for row in rows[1:]:
+
+            # The first row may contain the sub-industry name merged across
+            # multiple columns. Detect this by checking for a single cell or a
+            # cell with a ``colspan`` attribute greater than one.
+            data_start = 1
+            if rows:
+                first_cells = rows[0].find_all(["td", "th"])
+                if len(first_cells) == 1 or any(int(c.get("colspan", 1)) > 1 for c in first_cells):
+                    current_sub_industry = rows[0].get_text(strip=True)
+                    # Skip the first two rows (sub-industry heading and column headings)
+                    data_start = 2
+
+            for row in rows[data_start:]:
                 cols = [c.get_text(strip=True) for c in row.find_all(["td", "th"])]
                 if len(cols) >= 2:
                     records.append({
