@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tangible Asset Valuation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Tangible Asset Valuation</h1>
+    <form method="post" enctype="multipart/form-data">
+        <label for="valuation_date">Valuation Date:</label>
+        <input type="date" id="valuation_date" name="valuation_date" required>
+        <label for="industry">Industry:</label>
+        <input type="text" id="industry" name="industry" required>
+        <label for="far_file">Fixed Asset Register (CSV/Excel):</label>
+        <input type="file" id="far_file" name="far_file" accept=".csv,.xls,.xlsx" required>
+        <button type="submit">Calculate</button>
+    </form>
+</body>
+</html>
