@@ -47,9 +47,6 @@ containing a list of records with the following keys:
 * `asset_category`
 * `life`
 
-Sub-industry names are derived from the first row of each table in the ATO
-document.
-
 ```bash
 python valuation_app/fetch_asset_categories.py
 ```
