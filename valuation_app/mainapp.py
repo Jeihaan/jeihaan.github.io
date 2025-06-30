@@ -1,7 +1,11 @@
 from flask import Flask, render_template, request, send_file
 import os
 import pandas as pd
-from .valuations import load_far, compute_asset_age
+try:
+    # When executed as a package (e.g. ``python -m valuation_app.mainapp``)
+    from .valuations import load_far, compute_asset_age
+except ImportError:  # Fallback when running this file directly
+    from valuations import load_far, compute_asset_age
 
 app = Flask(__name__)
 UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), 'uploads')
