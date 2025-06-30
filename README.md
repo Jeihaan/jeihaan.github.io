@@ -16,12 +16,3 @@ This repository contains sample web assets and a small Flask application for a t
 
 The application expects the register to include an **Asset acquisition date** column and will add an **Asset Age (years)** column to the exported file.
 
-## Generating PPI Database
-
-To download the ABS Producer Price Index structure and data as a JSON file run:
-
-```bash
-python valuation_app/create_database.py
-```
-
-The file will be saved as `valuation_app/database.json` for later use in the valuation process.

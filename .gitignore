@@ -1,4 +1,3 @@
 __pycache__/
 *.pyc
 valuation_app/uploads/
-valuation_app/database.json
