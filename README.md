@@ -58,3 +58,12 @@ document. When a table contains no broader category headings, the
 python valuation_app/fetch_asset_categories.py
 ```
 
+
+## Fetching ABS PPI Data
+
+The repository also includes a script to download the structure and data for the ABS Producer Price Index dataset. Running it will create `valuation_app/abs_ppi_structure.json` and `valuation_app/abs_ppi_data.json`.
+
+```bash
+python valuation_app/fetch_ppi_data.py
+```
+
