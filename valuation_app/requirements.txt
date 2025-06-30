@@ -2,3 +2,6 @@ Flask
 pandas
 openpyxl
 beautifulsoup4
+ov95gz-codex/add-script-to-fetch-and-parse-asset-categories
+requests
+master
